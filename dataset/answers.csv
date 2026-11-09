@@ -1,0 +1,1010 @@
+﻿Query_ID,Question,Retrieved_Chunks,Retrieval_Scores,Answer_With_Retrieval,Answer_Without_Retrieval
+Q1,What is artificial intelligence in education?,"11 
+What is AI? 
+Our preliminary definition of AI as automation based on associations requires elaboration. 
+Below we address three additional perspectives on what constitutes AI. Educators will find these 
+different perspectives arise in the marketing of AI functionality and are important to understand 
+when evaluating edtech systems that incorporate AI. One useful glossary of AI for Education 
+terms is the CIRCLS Glossary of Artificial Intelligence Terms for Educators.11  
+AI is not one thing but an umbrella term for a growing set of modeling capabilities, as visualized 
+in Figure 3. 
+Figure 3: Components, types, and subfields of AI based on Regona et al (2022).12  
+ 
+ 
+11 Search for “AI Glossary Educators” to find other useful definitions.
+
+artificial intelligence (AI) and data in teaching and learning for educators, Publications Office of the European 
+Union. https://data.europa.eu/doi/10.2766/153756
+
+in educational settings. Recommendations in this report seek to engage teachers, educational 
+leaders, policy makers, researchers, and educational technology innovators and providers as they 
+work together on pressing policy issues that arise as Artificial Intelligence (AI) is used in 
+education.  
+AI can be defined as “automation based on associations.” When computers automate reasoning 
+based on associations in data (or associations deduced from expert knowledge), two shifts 
+fundamental to AI occur and shift computing beyond conventional edtech: (1) from capturing 
+data to detecting patterns in data and (2) from providing access to instructional resources to 
+automating decisions about instruction and other educational processes. Detecting patterns and
+
+Artificial Intelligence and the Future of Teaching and Learning 
+Miguel A. Cardona, Ed.D. 
+Secretary, U.S. Department of Education 
+Roberto J. Rodríguez 
+Assistant Secretary, Office of Planning, Evaluation, and Policy Development 
+Kristina Ishmael 
+Deputy Director, Office of Educational Technology 
+May 2023 
+ 
+Examples Are Not Endorsements 
+This document contains examples and resource materials that are provided for the user’s 
+convenience. The inclusion of any material is not intended to reflect its importance nor is it 
+intended to endorse any views expressed or products or services offered. These materials may 
+contain the views and recommendations of various subject matter experts as well as hypertext links,
+
+1 
+ 
+ 
+Artificial Intelligence 
+and the Future of 
+Teaching and Learning 
+Insights and Recommendations 
+May 2023","[0.6637, 0.6999, 0.7373, 0.7678, 0.7681]",Artificial intelligence (AI) in education refers to the use of automation based on associations in data or expert knowledge to automate decisions about instruction and other educational processes.,"Artificial intelligence (AI) in education refers to the use of computer systems and algorithms to analyze and improve student learning outcomes. AI can be used in various ways in educational settings, such as:
+
+1. Adaptive learning systems: These systems adjust the difficulty level of course materials based on a student's performance, providing personalized learning experiences.
+2. Intelligent tutoring systems: These systems use AI to provide one-on-one support to students, offering real-time feedback and guidance.
+3. Natural language processing (NLP): AI-powered NLP can be used to analyze student writing and provide feedback, helping to improve writing skills.
+4. Automated grading: AI can be used to automate the grading process, freeing up instructors to focus on more hands-on teaching.
+5. Personalized learning recommendations: AI can analyze student data and provide personalized learning recommendations, helping students to stay on track and achieve their goals.
+
+The benefits of AI in education include:
+
+* Improved student outcomes: AI can help students to learn more effectively and efficiently.
+* Increased efficiency: AI can automate many administrative tasks, freeing up instructors to focus on teaching.
+* Personalized learning: AI can provide students with tailored learning experiences that meet their individual needs.
+* Accessibility: AI-powered tools can help to make education more accessible to students with disabilities.
+
+However, there are also concerns about the use of AI in education, such as:
+
+* Job displacement: The use of AI in education could potentially displace human teachers and instructors.
+* Bias: AI systems can perpetuate biases and stereotypes if they are trained on biased data.
+* Lack of transparency: AI-powered decision-making processes can be opaque, making it difficult for students and instructors to understand how decisions are made.
+
+Overall, AI has the potential to revolutionize the way we learn and teach, but it is essential to address the concerns and challenges associated with its use in education."
+Q2,How can AI support teachers?,"First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs.
+
+2 
+represent others’ work as their own. They are well-aware of “teachable moments” and 
+pedagogical strategies that a human teacher can address but are undetected or misunderstood by 
+AI models. They worry whether recommendations suggested by an algorithm would be fair. 
+Educators’ concerns are manifold. Everyone in education has a responsibility to harness the 
+good to serve educational priorities while also protecting against the dangers that may arise as a 
+result of AI being integrated in edtech. 
+To develop guidance for edtech, the Department works closely with educational constituents. 
+These constituents include educational leaders—teachers, faculty, support staff, and other 
+educators—researchers; policymakers; advocates and funders; technology developers;
+
+tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.
+
+educators—researchers; policymakers; advocates and funders; technology developers; 
+community members and organizations; and, above all, learners and their families/caregivers. 
+Recently, through its activities with constituents, the Department noticed a sharp rise in interest 
+and concern about AI. For example, a 2021 field scan found that developers of all kinds of 
+technology systems—for student information, classroom instruction, school logistics, parent-
+teacher communication, and more—expect to add AI capabilities to their systems. Through a 
+series of four listening sessions conducted in June and August 2022 and attended by more than 
+700 attendees, it became clear that constituents believe that action is required now in order to get","[0.5838, 0.5929, 0.6581, 0.7415, 0.7495]","According to the context, AI can support teachers by providing them with greater support via automated assistants or other tools, enabling them to extend the support they offer to individual students when they run out of time.","AI can support teachers in several ways:
+
+1. **Personalized Learning**: AI can help teachers create personalized learning plans for each student, taking into account their learning style, pace, and abilities.
+2. **Automated Grading**: AI can assist teachers with grading by automating the process of scoring assignments and quizzes, freeing up time for more hands-on teaching.
+3. **Intelligent Tutoring Systems**: AI-powered intelligent tutoring systems can provide one-on-one support to students, offering real-time feedback and guidance.
+4. **Content Creation**: AI can help teachers create educational content, such as lesson plans, worksheets, and assessments, saving time and effort.
+5. **Data Analysis**: AI can help teachers analyze student data, identifying areas where students need extra support and providing insights on how to improve teaching methods.
+6. **Virtual Learning Environments**: AI can create virtual learning environments that simulate real-world scenarios, allowing students to practice and learn in a more immersive and interactive way.
+7. **Communication Tools**: AI-powered communication tools can help teachers stay in touch with parents and students, keeping them informed about progress and providing support when needed.
+8. **Lesson Planning**: AI can assist teachers in planning lessons, suggesting activities, and providing resources to support teaching and learning.
+9. **Student Feedback**: AI can help teachers collect and analyze student feedback, providing insights on what works and what doesn't, and helping to improve teaching methods.
+10. **Professional Development**: AI can provide teachers with professional development opportunities, such as online courses and workshops, to help them stay up-to-date with the latest teaching methods and technologies.
+
+By leveraging these capabilities, AI can support teachers in their efforts to provide high-quality education and improve student outcomes."
+Q3,How does AI improve student learning?,"First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs.
+
+the AI model, system, or tool, even if this slows the pace of adoption. 
+ 
+We return to the idea that these considerations fit together in a comprehensive perspective on 
+the quality of AI models in the Recommendations section. 
+Overview of Document 
+We begin in the next section by elaborating a definition of AI, followed by addressing learning, 
+teaching, assessment, and research and development. Organizing key insights by these topics 
+keeps us focused on exploring implications for improving educational opportunity and 
+outcomes for students throughout the report. 
+Within these topics, three important themes are explored: 
+1. Opportunities and Risks. Policies should focus on the most valuable educational 
+advances while mitigating risks.
+
+tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+automating decisions about instruction and other educational processes. Detecting patterns and 
+automating decisions are leaps in the level of responsibilities that can be delegated to a computer 
+system. The process of developing an AI system may lead to bias in how patterns are detected 
+and unfairness in how decisions are automated. Thus, educational systems must govern their use 
+of AI systems. This report describes opportunities for using AI to improve education, recognizes 
+challenges that will arise, and develops recommendations to guide further policy development.  
+Rising Interest in AI in Education  
+Today, many priorities for improvements to teaching and learning are unmet. Educators seek
+
+10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.","[0.6878, 0.7535, 0.7671, 0.7945, 0.7986]","The context does not provide enough information to answer the question ""How does AI improve student learning?""","Artificial Intelligence (AI) has the potential to significantly improve student learning in various ways. Here are some examples:
+
+1. **Personalized Learning**: AI can analyze individual students' learning styles, strengths, and weaknesses to provide personalized learning experiences. It can adapt the difficulty level of course materials, provide real-time feedback, and suggest customized learning paths.
+2. **Intelligent Tutoring Systems**: AI-powered intelligent tutoring systems can offer one-on-one support to students, providing guidance, feedback, and encouragement. These systems can also identify areas where students need extra help and provide targeted support.
+3. **Automated Grading**: AI can help automate the grading process, freeing up instructors' time to focus on more important tasks. AI-powered grading systems can also provide instant feedback to students, helping them track their progress and identify areas for improvement.
+4. **Natural Language Processing**: AI-powered natural language processing (NLP) can help students improve their language skills by providing real-time feedback on grammar, syntax, and vocabulary usage.
+5. **Virtual Learning Environments**: AI can create immersive virtual learning environments that simulate real-world scenarios, making learning more engaging and interactive. These environments can also provide students with opportunities to practice and apply what they've learned.
+6. **Predictive Analytics**: AI can analyze large datasets to predict student performance, identify areas where students may struggle, and provide early interventions to support students at risk.
+7. **Accessibility**: AI-powered tools can help make learning more accessible for students with disabilities, such as text-to-speech systems, speech-to-text systems, and other assistive technologies.
+8. **Real-time Feedback**: AI can provide real-time feedback to students, helping them stay on track and adjust their learning strategies as needed.
+9. **Content Creation**: AI can help create customized learning content, such as interactive simulations, games, and multimedia resources, to engage students and make learning more enjoyable.
+10. **Data-Driven Insights**: AI can provide educators with data-driven insights on student learning, helping them identify areas where students need extra support and make data-informed decisions about instruction.
+
+Overall, AI has the potential to revolutionize the way we teach and learn, making education more accessible, effective, and engaging for students."
+Q4,What are the benefits of AI in education?,"tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+2 Maslej, N., Fattorini, L., Brynjolfsson E., Etchemendy, J., Ligett, K., Lyons, T., Manyika, J., Ngo, H., Niebles, J.C., Parli, V., 
+Shoham, Y., Wald, R., Clark, J. and Perrault, R., (2023). The AI index 2023 annual report. Stanford University: AI Index 
+Steering Committee, Institute for Human-Centered AI.  
+3 Holmes, W. & Porayska-Pomsta, K. (Eds.) (2022). The ethics of artificial intelligence in education. Routledge. ISBN 978-
+0367349721
+
+1. Opportunities and Risks. Policies should focus on the most valuable educational 
+advances while mitigating risks. 
+2. Trust and Trustworthiness. Trust and safeguarding are particularly important in 
+education because we have an obligation to keep students out of harm’s way and 
+safeguard their learning experiences.  
+3. Quality of AI Models. The process of developing and then applying a model is at the 
+heart of any AI system. Policies need to support evaluation of the qualities of AI models 
+and their alignment to goals for teaching and learning during the processes of 
+educational adoption and use. 
+“AI in education can only grow at the speed of trust.” 
+—Dr. Dale Allen
+
+available data may produce unexpected results. For example, an AI-enabled teacher hiring 
+system might be assumed to be more objective than human-based résumé scoring. Yet, if the AI 
+system relies on poor quality historical data, it might de-prioritize candidates who could bring 
+both diversity and talent to a school’s teaching workforce. 
+In summary, it is imperative to address AI in education now to realize key opportunities, prevent 
+and mitigate emergent risks, and tackle unintended consequences. 
+Toward Policies for AI in Education 
+The 2023 AI Index Report from the Stanford Institute for Human-Centered AI has documented 
+notable acceleration of investment in AI as well as an increase of research on ethics, including
+
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs.","[0.6255, 0.7835, 0.7932, 0.8044, 0.8102]","According to the context, the benefits of AI in education include:
+
+1. Achieving educational priorities in better ways, at scale, and with lower costs.
+2. Improving adaptivity of learning resources to students' strengths and needs.
+3. Providing teachers with greater support through automated assistants or other tools.
+4. Enabling teachers to extend the support they offer to individual students when they run out of time.
+5. Enabling greater customizability of curricular resources to meet local needs.","The benefits of AI in education are numerous and can be categorized into several areas:
+
+1. **Personalized Learning**: AI can help create personalized learning plans for students based on their learning style, pace, and abilities. AI-powered adaptive learning systems can adjust the difficulty level of course materials in real-time, providing students with an optimal learning experience.
+
+2. **Intelligent Tutoring Systems**: AI-powered intelligent tutoring systems can provide one-on-one support to students, offering real-time feedback and guidance. These systems can help students who struggle with certain concepts or subjects, providing additional support and resources.
+
+3. **Automated Grading**: AI can help automate the grading process, freeing up instructors' time to focus on more important tasks. AI-powered grading systems can accurately assess student performance, providing instant feedback and reducing the administrative burden.
+
+4. **Content Creation**: AI can help create educational content, such as videos, simulations, and interactive modules. AI-powered content creation tools can generate high-quality content quickly and efficiently, reducing the time and effort required to develop educational materials.
+
+5. **Accessibility**: AI-powered tools can help make education more accessible to students with disabilities. For example, AI-powered speech-to-text systems can help students with dyslexia or other reading difficulties, while AI-powered image recognition systems can help students with visual impairments.
+
+6. **Data Analysis**: AI can help analyze large datasets related to student performance, providing insights into student behavior, learning patterns, and educational outcomes. This data can be used to inform instructional decisions, improve student outcomes, and optimize educational resources.
+
+7. **Virtual Learning Environments**: AI can help create immersive and interactive virtual learning environments, providing students with a more engaging and effective learning experience. AI-powered virtual reality (VR) and augmented reality (AR) tools can simulate real-world environments, making complex concepts more accessible and easier to understand.
+
+8. **Student Engagement**: AI can help increase student engagement and motivation through personalized feedback, rewards, and recognition. AI-powered systems can provide students with real-time feedback, encouraging them to stay on track and achieve their learning goals.
+
+9. **Teacher Support**: AI can help support teachers in their instructional roles, providing them with data-driven insights, lesson planning tools, and professional development resources. AI-powered systems can help teachers identify areas where students need extra support, enabling them to provide targeted interventions.
+
+10. **Cost-Effectiveness**: AI can help reduce the cost of education by automating administrative tasks, reducing the need for human instructors, and providing personalized learning experiences that reduce the need for remedial courses.
+
+Overall, AI has the potential to revolutionize the education sector by providing personalized learning experiences, automating administrative tasks, and improving student outcomes."
+Q5,What challenges are associated with AI in education?,"tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+“algorithmic discrimination” (e.g., systematic unfairness in the learning opportunities or 
+resources recommended to some populations of students). 
+Third, urgency arises because of the scale of possible unintended or unexpected consequences. 
+When AI enables instructional decisions to be automated at scale, educators may discover 
+unwanted consequences. In a simple example, if AI adapts by speeding curricular pace for some 
+students and by slowing the pace for other students (based on incomplete data, poor theories, or 
+biased assumptions about learning), achievement gaps could widen. In some cases, the quality of 
+available data may produce unexpected results. For example, an AI-enabled teacher hiring
+
+artificial intelligence (AI) and data in teaching and learning for educators, Publications Office of the European 
+Union. https://data.europa.eu/doi/10.2766/153756
+
+10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.
+
+the education sector is ahead of that game: we need to insist that AI-enhanced edtech rises to 
+meet ESEA standards as well. 
+Foundation 4: Promote Transparency  
+The central role of complex AI models in a technology’s detection of patterns and 
+implementation of automation is an important way in which AI-enabled applications, products, 
+and services will be different from conventional edtech. The Blueprint introduces the need for 
+transparency about AI models in terms of disclosure (“notice”) and explanation. In education, 
+decision makers will need more than notice—they will need to understand how AI models work 
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.","[0.7053, 0.7918, 0.8012, 0.8047, 0.808]","The challenges associated with AI in education include:
+
+1. Algorithmic discrimination (systematic unfairness in learning opportunities or resources recommended to some populations of students)
+2. Unintended or unexpected consequences due to the scale of AI-enabled instructional decisions
+3. Bias in AI systems and tools, which can lead to widening achievement gaps and poor results
+4. Lack of transparency and explanation about AI models, making it difficult for decision-makers to understand how AI models work and anticipate limitations, problems, and risks.
+
+Note: These challenges are mentioned in the context as reasons to address AI in education now, as articulated by constituents during listening sessions.","There are several challenges associated with AI in education. Some of the most significant ones include:
+
+1. **Bias and fairness**: AI systems can perpetuate existing biases and inequalities if they are trained on biased data or designed with a particular worldview. This can lead to unfair treatment of certain groups of students.
+
+2. **Lack of transparency and explainability**: AI algorithms can be complex and difficult to understand, making it challenging to explain their decision-making processes to students. This can lead to a lack of trust in AI-powered educational tools.
+
+3. **Dependence on technology**: Over-reliance on AI-powered educational tools can lead to a lack of critical thinking and problem-solving skills in students.
+
+4. **Equity and access**: Not all students have equal access to AI-powered educational tools, which can exacerbate existing inequalities in education.
+
+5. **Job displacement**: The increasing use of AI in education can lead to job displacement for teachers and other education professionals.
+
+6. **Cybersecurity risks**: AI-powered educational tools can be vulnerable to cyber attacks, which can compromise student data and disrupt learning.
+
+7. **Limited creativity and critical thinking**: AI-powered educational tools can stifle creativity and critical thinking skills in students, as they may rely too heavily on pre-programmed answers and algorithms.
+
+8. **Teacher training and support**: Teachers may need training and support to effectively integrate AI-powered educational tools into their teaching practices.
+
+9. **Data management and privacy**: The collection and management of student data by AI-powered educational tools can raise concerns about data privacy and security.
+
+10. **Standardization and accountability**: The use of AI in education can make it challenging to standardize assessments and hold students and teachers accountable for their performance.
+
+Overall, while AI has the potential to enhance education, it is essential to address these challenges to ensure that AI is used in a way that supports student learning and promotes equity and fairness."
+Q6,How can AI provide personalized learning?,"they are newly released to the public1. Educators see opportunities to use AI-powered capabilities 
+like speech recognition to increase the support available to students with disabilities, multilingual 
+learners, and others who could benefit from greater adaptivity and personalization in digital 
+tools for learning. They are exploring how AI can enable writing or improving lessons, as well as 
+their process for finding, choosing, and adapting material for use in their lessons.  
+Educators are also aware of new risks. Useful, powerful functionality can also be accompanied 
+with new data privacy and security risks. Educators recognize that AI can automatically produce 
+output that is inappropriate or wrong. They are wary that the associations or automations
+
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop. 
+● Learning: AI systems and tools must align to our collective vision for high-quality 
+learning, including equity. 
+● Teaching: AI systems and tools must be inspectable, explainable, and provide human 
+alternatives to AI-based suggestions; educators will need support to exercise professional 
+judgment and override AI models, when necessary.
+
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs.
+
+into mainstream technologies. As policy development takes time, policy makers and educational 
+constituents together need to start now to specify the requirements, disclosures, regulations, and 
+other structures that can shape a positive and safe future for all constituents—especially students 
+and teachers.  
+Policies are urgently needed to implement the following:  
+1. leverage automation to advance learning outcomes while protecting human decision 
+making and judgment;  
+2. interrogate the underlying data quality in AI models to ensure fair and unbiased pattern 
+recognition and decision making in educational applications, based on accurate 
+information appropriate to the pedagogical situation;  
+3. enable examination of how particular AI technologies, as part of larger edtech or
+
+automating decisions about instruction and other educational processes. Detecting patterns and 
+automating decisions are leaps in the level of responsibilities that can be delegated to a computer 
+system. The process of developing an AI system may lead to bias in how patterns are detected 
+and unfairness in how decisions are automated. Thus, educational systems must govern their use 
+of AI systems. This report describes opportunities for using AI to improve education, recognizes 
+challenges that will arise, and develops recommendations to guide further policy development.  
+Rising Interest in AI in Education  
+Today, many priorities for improvements to teaching and learning are unmet. Educators seek","[0.7985, 0.8135, 0.8141, 0.86, 0.905]","According to the context, AI can provide personalized learning by enabling adaptivity and personalization in digital tools for learning, allowing educators to use AI-powered capabilities like speech recognition to increase support available to students with disabilities, multilingual learners, and others who could benefit from greater adaptivity and personalization.","AI can provide personalized learning in several ways:
+
+1. **Adaptive Assessments**: AI-powered adaptive assessments can adjust the difficulty level of learning materials based on a student's performance, providing a more tailored learning experience.
+2. **Learning Paths**: AI can create customized learning paths for each student, recommending specific topics, resources, and activities to focus on based on their strengths, weaknesses, and learning style.
+3. **Intelligent Tutoring Systems**: AI-powered intelligent tutoring systems can provide one-on-one support to students, offering real-time feedback, guidance, and encouragement to help them overcome challenges and achieve their learning goals.
+4. **Content Recommendation**: AI can analyze a student's learning history, preferences, and performance to recommend relevant learning materials, such as videos, articles, or interactive simulations.
+5. **Personalized Feedback**: AI can provide personalized feedback to students, highlighting areas of strength and weakness, and suggesting targeted interventions to improve their learning outcomes.
+6. **Learning Analytics**: AI can analyze learning data to identify patterns, trends, and insights, providing educators with actionable information to inform instruction and improve student outcomes.
+7. **Virtual Learning Environments**: AI can create immersive virtual learning environments that adapt to individual students' needs, providing a more engaging and effective learning experience.
+8. **Natural Language Processing**: AI-powered natural language processing can analyze student responses, identify areas of difficulty, and provide targeted support to help students improve their language skills.
+9. **Predictive Modeling**: AI can use predictive modeling to forecast student performance, identifying at-risk students and providing early interventions to prevent learning gaps.
+10. **Continuous Assessment**: AI can continuously assess student learning, providing real-time feedback and adjusting instruction to ensure students are meeting their learning goals.
+
+By leveraging these capabilities, AI can help provide personalized learning experiences that cater to individual students' needs, abilities, and learning styles, ultimately improving learning outcomes and student success."
+Q7,What is the role of data in educational AI?,"artificial intelligence (AI) and data in teaching and learning for educators, Publications Office of the European 
+Union. https://data.europa.eu/doi/10.2766/153756
+
+systems are designed, but also later, as systems become widely used. 
+Foundation 3: Ensure Safety, Ethics, and Effectiveness 
+A central safety argument in the Department’s policies is the need for data privacy and security 
+in the systems used by teachers, students, and others in educational institutions. The 
+development and deployment of AI requires access to detailed data. This data goes beyond 
+conventional student records (roster and gradebook information) to detailed information about 
+what students do as they learn with technology and what teachers do as they use technology to 
+teach. AI’s dependence on data requires renewed and strengthened attention to data privacy, 
+security, and governance (as also indicated in the Blueprint). As AI models are not generally
+
+into mainstream technologies. As policy development takes time, policy makers and educational 
+constituents together need to start now to specify the requirements, disclosures, regulations, and 
+other structures that can shape a positive and safe future for all constituents—especially students 
+and teachers.  
+Policies are urgently needed to implement the following:  
+1. leverage automation to advance learning outcomes while protecting human decision 
+making and judgment;  
+2. interrogate the underlying data quality in AI models to ensure fair and unbiased pattern 
+recognition and decision making in educational applications, based on accurate 
+information appropriate to the pedagogical situation;  
+3. enable examination of how particular AI technologies, as part of larger edtech or
+
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.  
+AI models in edtech will be approximations of reality and, thus, constituents can always ask these 
+questions: How precise are the AI models? Do they accurately capture what is most important? 
+How well do the recommendations made by an AI model fit educational goals? What are the 
+broader implications of using AI models at scale in educational processes?  
+Building on what was heard from constituents, the sections of this report develop the theme of 
+evaluating the quality of AI systems and tools using multiple dimensions as follows: 
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop.
+
+10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.","[0.6159, 0.6683, 0.714, 0.771, 0.7806]","The role of data in educational AI is to enable the development and deployment of AI models, which require access to detailed information about students and teachers in educational institutions.","In educational AI, data plays a crucial role in several ways:
+
+1. **Personalized learning**: Data is used to create personalized learning plans for students. By analyzing a student's learning style, strengths, and weaknesses, AI systems can tailor the learning experience to meet individual needs.
+2. **Intelligent tutoring systems**: Data is used to power intelligent tutoring systems that provide one-on-one support to students. These systems use machine learning algorithms to analyze student performance and adjust the difficulty level of the material in real-time.
+3. **Adaptive assessments**: Data is used to create adaptive assessments that adjust the difficulty level of the assessment based on the student's performance. This helps to identify knowledge gaps and provide targeted support.
+4. **Content creation**: Data is used to create educational content that is relevant and engaging for students. For example, AI can analyze student performance data to identify areas where students need extra support, and then generate customized content to address those needs.
+5. **Student analytics**: Data is used to analyze student performance and provide insights on how students are learning. This helps educators to identify areas where students need extra support and make data-driven decisions about instruction.
+6. **Natural language processing**: Data is used to improve natural language processing (NLP) in educational AI. NLP is used to analyze and understand student language, identify areas where students need extra support, and provide personalized feedback.
+7. **Virtual learning environments**: Data is used to create virtual learning environments that simulate real-world learning experiences. These environments use data to adjust the difficulty level of the material, provide personalized feedback, and track student progress.
+
+Overall, data is a critical component of educational AI, enabling personalized learning, intelligent tutoring, adaptive assessments, and other innovative approaches to education."
+Q8,How can AI support student assessment?,"10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.
+
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs.
+
+the AI model, system, or tool, even if this slows the pace of adoption. 
+ 
+We return to the idea that these considerations fit together in a comprehensive perspective on 
+the quality of AI models in the Recommendations section. 
+Overview of Document 
+We begin in the next section by elaborating a definition of AI, followed by addressing learning, 
+teaching, assessment, and research and development. Organizing key insights by these topics 
+keeps us focused on exploring implications for improving educational opportunity and 
+outcomes for students throughout the report. 
+Within these topics, three important themes are explored: 
+1. Opportunities and Risks. Policies should focus on the most valuable educational 
+advances while mitigating risks.
+
+into mainstream technologies. As policy development takes time, policy makers and educational 
+constituents together need to start now to specify the requirements, disclosures, regulations, and 
+other structures that can shape a positive and safe future for all constituents—especially students 
+and teachers.  
+Policies are urgently needed to implement the following:  
+1. leverage automation to advance learning outcomes while protecting human decision 
+making and judgment;  
+2. interrogate the underlying data quality in AI models to ensure fair and unbiased pattern 
+recognition and decision making in educational applications, based on accurate 
+information appropriate to the pedagogical situation;  
+3. enable examination of how particular AI technologies, as part of larger edtech or
+
+tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.","[0.5785, 0.6879, 0.6893, 0.7285, 0.7765]",The context does not provide enough information to answer the question on how AI can support student assessment.,"AI can support student assessment in several ways:
+
+1. **Automated Grading**: AI can help grade assignments and exams quickly and accurately, reducing the workload for teachers and freeing up time for more hands-on support.
+2. **Intelligent Proctoring**: AI-powered proctoring systems can monitor student activity during online exams, detecting cheating and ensuring the integrity of the assessment process.
+3. **Adaptive Assessments**: AI can create adaptive assessments that adjust their difficulty and content based on a student's performance, providing a more personalized learning experience.
+4. **Natural Language Processing (NLP)**: AI-powered NLP can analyze student writing and provide feedback on grammar, syntax, and content, helping to improve writing skills.
+5. **Predictive Analytics**: AI can analyze student performance data to predict which students are at risk of falling behind or struggling with certain concepts, allowing teachers to intervene early.
+6. **Content Analysis**: AI can analyze large amounts of educational content to identify areas where students may need additional support or review.
+7. **Student Feedback Analysis**: AI can analyze student feedback to identify trends and patterns, helping teachers to understand what students are struggling with and how to improve their teaching methods.
+8. **Virtual Teaching Assistants**: AI-powered virtual teaching assistants can provide one-on-one support to students, answering questions and offering guidance on assignments and projects.
+9. **Automated Feedback Generation**: AI can generate automated feedback on student work, providing immediate feedback and reducing the workload for teachers.
+10. **Data-Driven Insights**: AI can provide teachers with data-driven insights on student performance, helping them to identify areas where students need additional support and develop targeted interventions.
+
+By leveraging these capabilities, AI can support student assessment and improve the overall learning experience for students."
+Q9,What are the privacy concerns of AI in education?,"security, and governance (as also indicated in the Blueprint). As AI models are not generally 
+developed in consideration of educational usage or student privacy, the educational application 
+of these models may not be aligned with the educational institution’s efforts to comply with 
+federal student privacy laws, such as FERPA, or state privacy laws.
+
+systems are designed, but also later, as systems become widely used. 
+Foundation 3: Ensure Safety, Ethics, and Effectiveness 
+A central safety argument in the Department’s policies is the need for data privacy and security 
+in the systems used by teachers, students, and others in educational institutions. The 
+development and deployment of AI requires access to detailed data. This data goes beyond 
+conventional student records (roster and gradebook information) to detailed information about 
+what students do as they learn with technology and what teachers do as they use technology to 
+teach. AI’s dependence on data requires renewed and strengthened attention to data privacy, 
+security, and governance (as also indicated in the Blueprint). As AI models are not generally
+
+the education sector is ahead of that game: we need to insist that AI-enhanced edtech rises to 
+meet ESEA standards as well. 
+Foundation 4: Promote Transparency  
+The central role of complex AI models in a technology’s detection of patterns and 
+implementation of automation is an important way in which AI-enabled applications, products, 
+and services will be different from conventional edtech. The Blueprint introduces the need for 
+transparency about AI models in terms of disclosure (“notice”) and explanation. In education, 
+decision makers will need more than notice—they will need to understand how AI models work 
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.
+
+privacy they are giving up when they accept AI-enabled systems into their lives. AI will bring 
+privacy and other risks that are hard to address only via individual decision making; additional 
+protections will be needed.
+
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.  
+AI models in edtech will be approximations of reality and, thus, constituents can always ask these 
+questions: How precise are the AI models? Do they accurately capture what is most important? 
+How well do the recommendations made by an AI model fit educational goals? What are the 
+broader implications of using AI models at scale in educational processes?  
+Building on what was heard from constituents, the sections of this report develop the theme of 
+evaluating the quality of AI systems and tools using multiple dimensions as follows: 
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop.","[0.5643, 0.5998, 0.6287, 0.6506, 0.6509]","The PDF does not provide enough information to answer this question directly. However, it mentions that AI models are not generally developed in consideration of educational usage or student privacy, which may lead to concerns about data privacy and security in educational institutions. Additionally, it highlights the need for transparency about AI models and the importance of protecting student privacy, but it does not provide specific details about the privacy concerns of AI in education.","The privacy concerns of AI in education are multifaceted and can be categorized into several areas:
+
+1. **Student Data Collection and Analysis**: AI-powered educational tools often require access to vast amounts of student data, including personal identifiable information, learning habits, and performance metrics. This raises concerns about data protection, consent, and the potential for biased decision-making.
+2. **Predictive Analytics and Bias**: AI algorithms can perpetuate existing biases in education if trained on biased data or designed with a narrow perspective. This can lead to unfair treatment of certain students, such as those from underrepresented groups or with disabilities.
+3. **Lack of Transparency and Explainability**: AI-driven decision-making processes can be opaque, making it difficult for students, parents, or educators to understand how AI is being used to make decisions about their education.
+4. **Surveillance and Monitoring**: AI-powered educational tools can be used to monitor students' behavior, including their online activities, academic performance, and even their mental health. This can create a sense of surveillance and control.
+5. **Informed Consent**: Students and parents may not be fully aware of the AI-powered tools being used in their education, or the extent to which their data is being collected and analyzed.
+6. **Data Sharing and Security**: AI-powered educational tools often rely on cloud-based services, which can pose security risks if not properly managed.
+7. **Accountability and Liability**: As AI becomes more prevalent in education, it is essential to establish clear guidelines and regulations for accountability and liability in case of errors or biases in AI-driven decision-making.
+
+To address these concerns, educators, policymakers, and developers must prioritize transparency, accountability, and student-centered design when implementing AI-powered educational tools. This includes ensuring that students and parents are informed about AI-powered tools, providing clear explanations for AI-driven decisions, and establishing robust data protection and security measures."
+Q10,How can teachers use AI responsibly?,"tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+2 
+represent others’ work as their own. They are well-aware of “teachable moments” and 
+pedagogical strategies that a human teacher can address but are undetected or misunderstood by 
+AI models. They worry whether recommendations suggested by an algorithm would be fair. 
+Educators’ concerns are manifold. Everyone in education has a responsibility to harness the 
+good to serve educational priorities while also protecting against the dangers that may arise as a 
+result of AI being integrated in edtech. 
+To develop guidance for edtech, the Department works closely with educational constituents. 
+These constituents include educational leaders—teachers, faculty, support staff, and other 
+educators—researchers; policymakers; advocates and funders; technology developers;
+
+10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.
+
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs. 
+Addressing varied unfinished learning of students due to the pandemic is a policy priority, and 
+AI may improve the adaptivity of learning resources to students’ strengths and needs. Improving 
+teaching jobs is a priority, and via automated assistants or other tools, AI may provide teachers 
+greater support. AI may also enable teachers to extend the support they offer to individual 
+students when they run out of time. Developing resources that are responsive to the knowledge 
+and experiences students bring to their learning—their community and cultural assets—is a 
+priority, and AI may enable greater customizability of curricular resources to meet local needs.
+
+they are newly released to the public1. Educators see opportunities to use AI-powered capabilities 
+like speech recognition to increase the support available to students with disabilities, multilingual 
+learners, and others who could benefit from greater adaptivity and personalization in digital 
+tools for learning. They are exploring how AI can enable writing or improving lessons, as well as 
+their process for finding, choosing, and adapting material for use in their lessons.  
+Educators are also aware of new risks. Useful, powerful functionality can also be accompanied 
+with new data privacy and security risks. Educators recognize that AI can automatically produce 
+output that is inappropriate or wrong. They are wary that the associations or automations","[0.6411, 0.6677, 0.6749, 0.713, 0.7181]","The context does not provide a clear answer on how teachers can use AI responsibly. However, it does mention some concerns and considerations that educators have regarding the use of AI in education, such as:
+
+* The need for AI systems and tools to minimize bias, promote fairness, and avoid additional testing time and burden for students and teachers.
+* The importance of using AI systems and tools that account for the context of teaching and learning and work well in educational practice.
+* The need for algorithmic discrimination protections, data privacy, notice and explanation, and a recourse to humans when problems arise.
+* The importance of involving the people most affected by the use of AI in education in the development of AI models, systems, or tools.
+
+While these points suggest that educators are aware of the potential risks and challenges associated with AI in education, they do not provide a clear answer on how teachers can use AI responsibly.","Teachers can use AI responsibly in several ways:
+
+1. **Augmenting instruction, not replacing it**: AI can be used to support teaching and learning, such as providing personalized feedback, automating grading, and offering additional resources for students. However, it should not be used to replace human teachers or the learning experience.
+
+2. **Fostering critical thinking and media literacy**: As AI becomes more prevalent, it's essential for teachers to teach students how to critically evaluate information, identify biases, and recognize the limitations of AI-generated content.
+
+3. **Respecting student data and privacy**: Teachers must ensure that they are collecting and using student data in a responsible and secure manner, following all relevant laws and regulations.
+
+4. **Encouraging creativity and human interaction**: While AI can generate content, it's essential for teachers to encourage students to engage in creative activities, collaborate with peers, and develop essential social skills.
+
+5. **Staying up-to-date with AI developments**: Teachers should stay informed about the latest AI developments and their potential impact on teaching and learning, so they can make informed decisions about their use in the classroom.
+
+6. **Addressing potential biases and inequalities**: Teachers should be aware of the potential biases and inequalities that AI systems can perpetuate and take steps to mitigate them in their teaching practices.
+
+7. **Providing students with AI literacy skills**: As AI becomes more ubiquitous, it's essential for teachers to teach students how to work with AI, including how to use it effectively, critically evaluate AI-generated content, and develop skills that complement AI.
+
+8. **Encouraging transparency and accountability**: Teachers should be transparent about their use of AI in the classroom and be accountable for any decisions they make about AI use.
+
+By following these guidelines, teachers can harness the potential of AI to enhance teaching and learning while minimizing its risks and negative consequences."
+Q11,Why is human involvement important in AI-based education?,"tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+concept of “Human Alternatives, Consideration, and Fallback” in the Blueprint and ethical 
+concepts used more broadly in evaluating AI, such as preserving human dignity. A top policy 
+priority must be establishing human in the loop as a requirement in educational applications, 
+despite contrary pressures to use AI as an alternative to human decision making. Policies should 
+not hinder innovation and improvement, nor should they be burdensome to implement. Society 
+needs an education-focused AI policy that protects civil rights and promotes democratic values 
+in the building, deployment, and governance of automated systems to be used across the many 
+decentralized levels of the American educational system. 
+Foundation 2: Advance Equity
+
+2 Maslej, N., Fattorini, L., Brynjolfsson E., Etchemendy, J., Ligett, K., Lyons, T., Manyika, J., Ngo, H., Niebles, J.C., Parli, V., 
+Shoham, Y., Wald, R., Clark, J. and Perrault, R., (2023). The AI index 2023 annual report. Stanford University: AI Index 
+Steering Committee, Institute for Human-Centered AI.  
+3 Holmes, W. & Porayska-Pomsta, K. (Eds.) (2022). The ethics of artificial intelligence in education. Routledge. ISBN 978-
+0367349721
+
+education. The implications are similar at all levels of education, and the Department intends 
+further activities in 2023 to engage constituents beyond K-12 schools. 
+Guiding Questions 
+Understanding that AI increases automation and allows machines to do some tasks that only 
+people did in the past leads us to a pair of bold, overarching questions:  
+1. What is our collective vision of a desirable and achievable educational system that 
+leverages automation to advance learning while protecting and centering human agency? 
+2. How and on what timeline will we be ready with necessary guidelines and guardrails, as 
+well as convincing evidence of positive impacts, so that constituents can ethically and 
+equitably implement this vision widely?
+
+available data may produce unexpected results. For example, an AI-enabled teacher hiring 
+system might be assumed to be more objective than human-based résumé scoring. Yet, if the AI 
+system relies on poor quality historical data, it might de-prioritize candidates who could bring 
+both diversity and talent to a school’s teaching workforce. 
+In summary, it is imperative to address AI in education now to realize key opportunities, prevent 
+and mitigate emergent risks, and tackle unintended consequences. 
+Toward Policies for AI in Education 
+The 2023 AI Index Report from the Stanford Institute for Human-Centered AI has documented 
+notable acceleration of investment in AI as well as an increase of research on ethics, including","[0.6634, 0.7707, 0.7713, 0.786, 0.7954]","According to the context, human involvement is important in AI-based education because it is essential to ""preserve human dignity"" and to ""protect civil rights and promote democratic values"" in the building, deployment, and governance of automated systems. Additionally, establishing ""human in the loop"" as a requirement in educational applications is a top policy priority to ensure that AI is used in a way that supports virtuous cycles and prevents vicious cycles.","Human involvement is crucial in AI-based education for several reasons:
+
+1. **Personalization**: AI can analyze vast amounts of data, but human teachers and educators can provide personalized feedback and guidance, tailoring the learning experience to individual students' needs and abilities.
+2. **Contextual understanding**: Humans can provide context and nuance that AI systems may struggle to replicate. For example, a teacher can explain complex concepts in a way that is relatable and easy to understand, helping students to grasp abstract ideas.
+3. **Emotional intelligence**: Human educators can recognize and respond to students' emotions, creating a supportive and inclusive learning environment. AI systems, on the other hand, may struggle to empathize with students' emotional states.
+4. **Critical thinking and creativity**: Humans can encourage critical thinking, creativity, and problem-solving skills, which are essential for success in an increasingly complex and rapidly changing world. AI systems can provide tools and resources to support these skills, but human guidance is essential for developing them.
+5. **Accountability and ethics**: Human educators are accountable for ensuring that AI-based education systems are fair, unbiased, and respectful of diverse perspectives and experiences. They can also address any ethical concerns or issues that arise during the learning process.
+6. **Human connection and motivation**: Human involvement can foster a sense of community and motivation among students, which is essential for engaging with AI-based education systems. Students are more likely to be motivated to learn when they feel connected to their teachers and peers.
+7. **Adaptability and flexibility**: Humans can adapt AI-based education systems to meet the unique needs of individual students or classrooms, making them more effective and efficient.
+
+In summary, human involvement is essential in AI-based education to provide personalized support, contextual understanding, emotional intelligence, critical thinking, creativity, accountability, and human connection, ultimately leading to a more effective and engaging learning experience."
+Q12,How can AI improve educational accessibility?,"10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.
+
+they are newly released to the public1. Educators see opportunities to use AI-powered capabilities 
+like speech recognition to increase the support available to students with disabilities, multilingual 
+learners, and others who could benefit from greater adaptivity and personalization in digital 
+tools for learning. They are exploring how AI can enable writing or improving lessons, as well as 
+their process for finding, choosing, and adapting material for use in their lessons.  
+Educators are also aware of new risks. Useful, powerful functionality can also be accompanied 
+with new data privacy and security risks. Educators recognize that AI can automatically produce 
+output that is inappropriate or wrong. They are wary that the associations or automations
+
+address new opportunities and challenges within existing frameworks that take into 
+consideration federal student privacy laws (such as the Family Educational Rights and Privacy 
+Act, or FERPA), as well as similar state related laws. AI also makes recommendations and takes 
+actions automatically in support of student learning, and thus educators will need to consider 
+how such recommendations and actions can comply with laws such as the Individuals with 
+Disabilities Education Act (IDEA). We discuss specific policies in the concluding section. 
+Figure 1: Research about AI is growing rapidly. Other indicators, such as dollars invested and 
+number of people employed, show similar trends. 
+ 
+AI is advancing exponentially (see Figure 1), with powerful new AI features for generating images
+
+the education sector is ahead of that game: we need to insist that AI-enhanced edtech rises to 
+meet ESEA standards as well. 
+Foundation 4: Promote Transparency  
+The central role of complex AI models in a technology’s detection of patterns and 
+implementation of automation is an important way in which AI-enabled applications, products, 
+and services will be different from conventional edtech. The Blueprint introduces the need for 
+transparency about AI models in terms of disclosure (“notice”) and explanation. In education, 
+decision makers will need more than notice—they will need to understand how AI models work 
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.
+
+Rising Interest in AI in Education  
+Today, many priorities for improvements to teaching and learning are unmet. Educators seek 
+technology-enhanced approaches addressing these priorities that would be safe, effective, and 
+scalable. Naturally, educators wonder if the rapid advances in technology in everyday lives could 
+help. Like all of us, educators use AI-powered services in their everyday lives, such as voice 
+assistants in their homes; tools that can correct grammar, complete sentences, and write essays; 
+and automated trip planning on their phones. Many educators are actively exploring AI tools as 
+they are newly released to the public1. Educators see opportunities to use AI-powered capabilities","[0.7533, 0.7587, 0.7884, 0.8219, 0.8536]","According to the context, AI can improve educational accessibility by:
+
+1. Increasing support available to students with disabilities through speech recognition capabilities.
+2. Providing greater adaptivity and personalization in digital tools for learning for multilingual learners.
+3. Enabling writing or improving lessons for students who may need additional support.
+
+These capabilities aim to make learning more accessible and inclusive for students who may face challenges due to their disabilities or language barriers.","AI can improve educational accessibility in several ways:
+
+1. **Personalized learning**: AI-powered adaptive learning systems can adjust the difficulty level of course materials based on individual students' performance, learning style, and pace. This ensures that students with disabilities or learning difficulties receive the support they need.
+
+2. **Real-time language translation**: AI-powered translation tools can help students who are non-native speakers of the language of instruction to access educational content. This can be particularly helpful for students with language barriers or learning disabilities.
+
+3. **Multilingual support**: AI-powered chatbots and virtual assistants can provide multilingual support to students, helping them to navigate online learning platforms and access educational resources in their native language.
+
+4. **Accessibility features**: AI-powered tools can help to identify and address accessibility barriers in educational content, such as providing alternative text for images, converting documents to audio format, and offering closed captions for videos.
+
+5. **Intelligent tutoring systems**: AI-powered intelligent tutoring systems can provide one-on-one support to students, offering real-time feedback and guidance on complex topics. This can be particularly helpful for students with learning difficulties or disabilities.
+
+6. **Virtual learning environments**: AI-powered virtual learning environments can provide a more inclusive and accessible learning experience for students with disabilities. These environments can be designed to accommodate different learning styles and abilities, and can provide features such as text-to-speech functionality, speech-to-text functionality, and high contrast mode.
+
+7. **Automated grading**: AI-powered automated grading systems can help to reduce the workload of teachers and provide more accurate and consistent grading. This can be particularly helpful for students with disabilities who may require additional support or accommodations.
+
+8. **Accessibility audits**: AI-powered accessibility audits can help to identify and address accessibility barriers in educational content, such as providing recommendations for improving accessibility and offering guidance on how to create more accessible materials.
+
+Overall, AI has the potential to significantly improve educational accessibility, providing more inclusive and supportive learning environments for students with disabilities and learning difficulties."
+Q13,What are the limitations of AI in teaching?,"“algorithmic discrimination” (e.g., systematic unfairness in the learning opportunities or 
+resources recommended to some populations of students). 
+Third, urgency arises because of the scale of possible unintended or unexpected consequences. 
+When AI enables instructional decisions to be automated at scale, educators may discover 
+unwanted consequences. In a simple example, if AI adapts by speeding curricular pace for some 
+students and by slowing the pace for other students (based on incomplete data, poor theories, or 
+biased assumptions about learning), achievement gaps could widen. In some cases, the quality of 
+available data may produce unexpected results. For example, an AI-enabled teacher hiring
+
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.  
+AI models in edtech will be approximations of reality and, thus, constituents can always ask these 
+questions: How precise are the AI models? Do they accurately capture what is most important? 
+How well do the recommendations made by an AI model fit educational goals? What are the 
+broader implications of using AI models at scale in educational processes?  
+Building on what was heard from constituents, the sections of this report develop the theme of 
+evaluating the quality of AI systems and tools using multiple dimensions as follows: 
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop.
+
+2 
+represent others’ work as their own. They are well-aware of “teachable moments” and 
+pedagogical strategies that a human teacher can address but are undetected or misunderstood by 
+AI models. They worry whether recommendations suggested by an algorithm would be fair. 
+Educators’ concerns are manifold. Everyone in education has a responsibility to harness the 
+good to serve educational priorities while also protecting against the dangers that may arise as a 
+result of AI being integrated in edtech. 
+To develop guidance for edtech, the Department works closely with educational constituents. 
+These constituents include educational leaders—teachers, faculty, support staff, and other 
+educators—researchers; policymakers; advocates and funders; technology developers;
+
+they are newly released to the public1. Educators see opportunities to use AI-powered capabilities 
+like speech recognition to increase the support available to students with disabilities, multilingual 
+learners, and others who could benefit from greater adaptivity and personalization in digital 
+tools for learning. They are exploring how AI can enable writing or improving lessons, as well as 
+their process for finding, choosing, and adapting material for use in their lessons.  
+Educators are also aware of new risks. Useful, powerful functionality can also be accompanied 
+with new data privacy and security risks. Educators recognize that AI can automatically produce 
+output that is inappropriate or wrong. They are wary that the associations or automations
+
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop. 
+● Learning: AI systems and tools must align to our collective vision for high-quality 
+learning, including equity. 
+● Teaching: AI systems and tools must be inspectable, explainable, and provide human 
+alternatives to AI-based suggestions; educators will need support to exercise professional 
+judgment and override AI models, when necessary.","[0.8275, 0.831, 0.8522, 0.8629, 0.8697]",The PDF does not provide enough information to answer the question about the limitations of AI in teaching.,"The limitations of AI in teaching are:
+
+1. Lack of Human Touch: AI systems lack the emotional intelligence and empathy of human teachers, which can make it difficult for students to form a personal connection with the AI system.
+
+2. Limited Contextual Understanding: AI systems may struggle to understand the nuances of human language, idioms, and context-dependent expressions, which can lead to misinterpretation and miscommunication.
+
+3. Dependence on Data Quality: AI systems are only as good as the data they are trained on. If the data is biased, incomplete, or inaccurate, the AI system's performance will suffer.
+
+4. Limited Ability to Adapt to Individual Learning Styles: AI systems often rely on standardized curricula and teaching methods, which may not accommodate individual learning styles or needs.
+
+5. Lack of Creativity and Critical Thinking: AI systems can generate content, but they often lack the creativity and critical thinking skills that human teachers bring to the classroom.
+
+6. Limited Ability to Handle Emotional and Social Challenges: AI systems are not equipped to handle the emotional and social challenges that students face in the classroom, such as bullying, anxiety, or trauma.
+
+7. Dependence on Technology: AI systems require reliable technology to function, which can be a limitation in areas with limited internet connectivity or outdated technology.
+
+8. Limited Ability to Provide Feedback and Assessment: AI systems can provide some form of feedback, but they often lack the nuance and depth of human feedback, which is essential for effective learning.
+
+9. Limited Understanding of Complex Concepts: AI systems may struggle to understand complex concepts or abstract ideas, which can make it difficult for students to grasp these concepts.
+
+10. Limited Ability to Foster a Sense of Community: AI systems often lack the ability to foster a sense of community and belonging among students, which is essential for effective learning and socialization.
+
+Despite these limitations, AI has the potential to augment and enhance teaching, and many educators are exploring ways to integrate AI into the classroom to support student learning."
+Q14,How can schools implement AI tools?,"10 
+● Formative Assessment: AI systems and tools must minimize bias, promote fairness, and 
+avoid additional testing time and burden for students and teachers. 
+● Research and Development: AI systems and tools must account for the context of 
+teaching and learning and must work well in educational practice, given variability in 
+students, teachers, and settings. 
+● Recommendations: Use of AI systems and tools must be safe and effective for students. 
+They must include algorithmic discrimination protections, protect data privacy, provide 
+notice and explanation, and provide a recourse to humans when problems arise. The 
+people most affected by the use of AI in education must be part of the development of 
+the AI model, system, or tool, even if this slows the pace of adoption.
+
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop. 
+● Learning: AI systems and tools must align to our collective vision for high-quality 
+learning, including equity. 
+● Teaching: AI systems and tools must be inspectable, explainable, and provide human 
+alternatives to AI-based suggestions; educators will need support to exercise professional 
+judgment and override AI models, when necessary.
+
+into mainstream technologies. As policy development takes time, policy makers and educational 
+constituents together need to start now to specify the requirements, disclosures, regulations, and 
+other structures that can shape a positive and safe future for all constituents—especially students 
+and teachers.  
+Policies are urgently needed to implement the following:  
+1. leverage automation to advance learning outcomes while protecting human decision 
+making and judgment;  
+2. interrogate the underlying data quality in AI models to ensure fair and unbiased pattern 
+recognition and decision making in educational applications, based on accurate 
+information appropriate to the pedagogical situation;  
+3. enable examination of how particular AI technologies, as part of larger edtech or
+
+in a range of general educational use cases, so they can better anticipate limitations, problems, 
+and risks.  
+AI models in edtech will be approximations of reality and, thus, constituents can always ask these 
+questions: How precise are the AI models? Do they accurately capture what is most important? 
+How well do the recommendations made by an AI model fit educational goals? What are the 
+broader implications of using AI models at scale in educational processes?  
+Building on what was heard from constituents, the sections of this report develop the theme of 
+evaluating the quality of AI systems and tools using multiple dimensions as follows: 
+● About AI: AI systems and tools must respect data privacy and security. Humans must be 
+in the loop.
+
+Rising Interest in AI in Education  
+Today, many priorities for improvements to teaching and learning are unmet. Educators seek 
+technology-enhanced approaches addressing these priorities that would be safe, effective, and 
+scalable. Naturally, educators wonder if the rapid advances in technology in everyday lives could 
+help. Like all of us, educators use AI-powered services in their everyday lives, such as voice 
+assistants in their homes; tools that can correct grammar, complete sentences, and write essays; 
+and automated trip planning on their phones. Many educators are actively exploring AI tools as 
+they are newly released to the public1. Educators see opportunities to use AI-powered capabilities","[0.6135, 0.6739, 0.6752, 0.6946, 0.6971]","The context does not provide enough information to answer the question ""How can schools implement AI tools?"" directly.","Schools can implement AI tools in a variety of ways to enhance teaching, learning, and student outcomes. Here are some examples:
+
+1. **Personalized Learning**: AI-powered adaptive learning systems can analyze student performance data and adjust the difficulty level of course materials in real-time, providing a more personalized learning experience.
+2. **Automated Grading**: AI can help teachers with grading by analyzing student assignments and providing instant feedback, freeing up instructors to focus on more hands-on, human interactions.
+3. **Intelligent Tutoring Systems**: AI-powered virtual tutors can provide one-on-one support to students, offering real-time guidance and feedback on complex topics like math, science, and language arts.
+4. **Natural Language Processing (NLP)**: AI-powered NLP tools can help teachers with tasks like grading essays, summarizing student responses, and even generating lesson plans.
+5. **Student Analytics**: AI can help schools analyze student data to identify trends, patterns, and areas of improvement, enabling data-driven decision-making.
+6. **Virtual Learning Environments**: AI-powered virtual learning environments can create immersive, interactive experiences for students, making learning more engaging and effective.
+7. **Accessibility Tools**: AI-powered tools can help students with disabilities, such as text-to-speech software, speech-to-text software, and other assistive technologies.
+8. **Teacher Support**: AI can provide teachers with tools like lesson planning suggestions, professional development resources, and peer review platforms to support their professional growth.
+9. **Parent-Teacher Communication**: AI-powered communication tools can help teachers and parents stay connected, sharing updates, and providing real-time feedback.
+10. **Curriculum Development**: AI can help schools develop and refine curricula by analyzing student performance data, identifying knowledge gaps, and suggesting new content and teaching methods.
+
+To implement AI tools effectively, schools should:
+
+* Develop a clear vision and strategy for AI adoption
+* Provide teacher training and support
+* Ensure data security and privacy
+* Monitor and evaluate AI tool effectiveness
+* Foster a culture of innovation and experimentation
+
+By implementing AI tools in a thoughtful and strategic way, schools can unlock new possibilities for teaching, learning, and student success."
+Q15,What is the future of AI in education?,"1 
+ 
+ 
+Artificial Intelligence 
+and the Future of 
+Teaching and Learning 
+Insights and Recommendations 
+May 2023
+
+education. The implications are similar at all levels of education, and the Department intends 
+further activities in 2023 to engage constituents beyond K-12 schools. 
+Guiding Questions 
+Understanding that AI increases automation and allows machines to do some tasks that only 
+people did in the past leads us to a pair of bold, overarching questions:  
+1. What is our collective vision of a desirable and achievable educational system that 
+leverages automation to advance learning while protecting and centering human agency? 
+2. How and on what timeline will we be ready with necessary guidelines and guardrails, as 
+well as convincing evidence of positive impacts, so that constituents can ethically and 
+equitably implement this vision widely?
+
+tool, service, or announcement, because AI-enabled systems evolve rapidly. Finally, the 
+Department engaged the educational policy expertise available internally and in its relationships 
+with AI policy experts to shape the findings and recommendations in this report.  
+Three Reasons to Address AI in Education Now 
+“I strongly believe in the need for stakeholders to understand the cyclical 
+effects of AI and education. By understanding how different activities 
+accrue, we have the ability to support virtuous cycles. Otherwise, we will 
+likely allow vicious cycles to perpetuate.”  
+ —Lydia Liu 
+During the listening sessions, constituents articulated three reasons to address AI now: 
+First, AI may enable achieving educational priorities in better ways, at scale, and with lower costs.
+
+number of people employed, show similar trends. 
+ 
+AI is advancing exponentially (see Figure 1), with powerful new AI features for generating images 
+and text becoming available to the public, and leading to changes in how people create text and 
+ 
+4 White House Office of Science and Technology Policy (October 2022), Blueprint for an AI bill of rights: Making automated 
+systems work for the American people. The White House Office of Science and Technology Policy. 
+https://www.whitehouse.gov/ostp/ai-bill-of-rights/  
+5 European Commission, Directorate-General for Education, Youth, Sport and Culture. (2022). Ethical guidelines on the use of 
+artificial intelligence (AI) and data in teaching and learning for educators, Publications Office of the European
+
+Table of Contents 
+Introduction ................................ ................................ ................................ ..........................  1 
+Rising Interest in AI in Education ......................................................................................................................................................... 1 
+Three Reasons to Address AI in Education Now................................................................................................................... 2 
+Toward Policies for AI in Education .................................................................................................................................................. 3","[0.5433, 0.6152, 0.6255, 0.7312, 0.7321]","The PDF does not provide enough information to answer the question ""What is the future of AI in education?""","The future of AI in education is promising and rapidly evolving. Here are some potential trends and developments that may shape the future of AI in education:
+
+1. **Personalized Learning**: AI can help create personalized learning plans for students, tailoring the content and pace to individual needs and abilities.
+2. **Intelligent Tutoring Systems**: AI-powered tutoring systems can provide one-on-one support to students, offering real-time feedback and guidance.
+3. **Automated Grading**: AI can help automate the grading process, freeing up instructors to focus on more hands-on, human aspects of teaching.
+4. **Natural Language Processing**: AI-powered chatbots and virtual assistants can help students with language-related tasks, such as language learning and writing support.
+5. **Virtual and Augmented Reality**: AI can enhance the learning experience through immersive virtual and augmented reality environments, making complex concepts more engaging and interactive.
+6. **Predictive Analytics**: AI can help predict student performance and identify areas where students may need extra support, enabling targeted interventions.
+7. **Content Creation**: AI can assist in creating educational content, such as generating lesson plans, developing educational games, and creating interactive simulations.
+8. **Accessibility**: AI can help make education more accessible for students with disabilities, such as providing real-time transcription and translation services.
+9. **Teacher Support**: AI can provide teachers with data-driven insights and recommendations to improve their teaching practices and student outcomes.
+10. **Lifelong Learning**: AI can help facilitate lifelong learning by providing continuous learning opportunities and skill development pathways.
+
+However, there are also concerns and challenges associated with the integration of AI in education, such as:
+
+* **Bias and Fairness**: AI systems can perpetuate biases and inequalities if they are trained on biased data or designed with a particular worldview.
+* **Job Displacement**: The increasing use of AI in education may displace certain jobs, such as teaching assistants or administrative staff.
+* **Depersonalization**: Over-reliance on AI may lead to a depersonalized learning experience, where students lack human interaction and emotional support.
+* **Cybersecurity**: AI systems can be vulnerable to cyber threats, compromising student data and disrupting learning.
+
+To mitigate these risks, it's essential to develop and implement AI systems that prioritize transparency, accountability, and human-centered design."
